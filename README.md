@@ -85,7 +85,13 @@ Chat Screen
 
 ## Wireframes
 
-<img src="Screenshot 2026-03-23 212504.png" width=600>
+<img width="1137" height="963" alt="Screenshot 2026-03-23 212504" src="https://github.com/user-attachments/assets/d27dc284-e7d4-4ab1-97d9-da637d810d5d" />
+
+
+
+https://github.com/user-attachments/assets/9106988e-02da-43b5-8762-fd4148225eda
+
+
 
 <br>
 
